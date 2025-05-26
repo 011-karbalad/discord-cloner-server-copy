@@ -1,0 +1,16 @@
+{
+  "roles": [...],
+  "categories": [
+    {
+      "id": 1234567890,
+      "name": "General"
+    }
+  ],
+  "channels": [
+    {
+      "name": "chat",
+      "type": "text",
+      "category_id": 1234567890
+    }
+  ]
+}
