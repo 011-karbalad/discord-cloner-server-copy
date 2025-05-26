@@ -41,3 +41,5 @@ This project was made to make your life easier, instead of spending hours trying
 
 ```bash
 pip install -U discord.py
+
+- com: 1back | /restore
