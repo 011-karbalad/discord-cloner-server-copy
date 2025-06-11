@@ -6,7 +6,7 @@ This project was made to make your life easier, instead of spending hours trying
 
 <p align="center">
   یک ربات ساده اما قدرتمند برای بکاپ گرفتن کامل از سرور دیسکورد و ریستور آن در هر زمان ⏳<br>
-  ساخته شده با 💙 توسط <a href="https://github.com/YourUsername">Faraz</a>
+  ساخته شده با 💙 توسط <a href="https://github.com/011-karbalad">Faraz</a>
 </p>
 
 <div align="center">
